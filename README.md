@@ -1,6 +1,6 @@
-# Core Crew Privacy Policy
+# Static Squad Privacy Policy
 
-This repository contains the official Privacy Policy for the mobile game **Core Crew**.
+This repository contains the official Privacy Policy for the mobile game **Static Squad**.
 
 ## 📄 Privacy Policy
 
@@ -9,7 +9,7 @@ You can view the privacy policy here:
 
 ## 🛡️ About the Game
 
-Core Crew is a sci-fi survival shooter for Android, developed using Unity.
+Static Squad is a sci-fi survival shooter for Android, developed using Unity.
 
 The game uses third-party services such as:
 
