@@ -1,6 +1,6 @@
-# Signal Lost Privacy Policy
+# Core Crew Privacy Policy
 
-This repository contains the official Privacy Policy for the mobile game **Signal Lost**.
+This repository contains the official Privacy Policy for the mobile game **Core Crew**.
 
 ## 📄 Privacy Policy
 
@@ -9,11 +9,12 @@ You can view the privacy policy here:
 
 ## 🛡️ About the Game
 
-Signal Lost is a sci-fi survival shooter for Android, developed using Unity.
+Core Crew is a sci-fi survival shooter for Android, developed using Unity.
 
 The game uses third-party services such as:
 
 * Unity Gaming Services (Authentication, Lobby, Relay) for online multiplayer
+* Unity In-App Purchasing and Google Play Billing for optional purchases
 * Google Play Services
 
 ## 📬 Contact
