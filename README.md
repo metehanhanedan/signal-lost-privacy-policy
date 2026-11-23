@@ -21,4 +21,4 @@ The game uses third-party services such as:
 
 For any questions regarding this privacy policy:
 
-Email: [metehanhanedan@gmail.com](mailto:metehanhanedan@gmail.com)
+Email: [veyraxis.studio@gmail.com](mailto:veyraxis.studio@gmail.com)
